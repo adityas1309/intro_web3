@@ -43,7 +43,7 @@ You'll need both the **Address** and the **ABI** for the next part\!
 ### **Part 2: The React Quest Camp (Running the Frontend)**
 
 1. **Clone the Repository**:  
-   git clone \[https://github.com/adityas1309/intro\_web3.git\](https://github.com/adityas1309/intro\_web3.git)  
+   git clone [https://github.com/adityas1309/intro\_web3.git](https://github.com/adityas1309/intro\_web3.git)  
    cd intro\_web3
 
 2. **Install Dependencies**:  
